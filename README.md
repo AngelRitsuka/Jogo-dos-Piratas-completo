@@ -1,2 +1,3 @@
-# Jogo-dos-Piratas-completo
-Aula 28
+# PiratesInvasionStage-6
+
+adding sounds and score
